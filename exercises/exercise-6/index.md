@@ -8,8 +8,8 @@
 
 ## Summary
 We got information separated into 3 lists - names, roles and hp!
-
-Before you start, download the attached ```.json``` file.
+Use the .json file (read it or anything you like) to use the objects stated there.
+Before you start, download the  ```ow.json``` file from the assets folder.
 
 ## Guidelines
 In this exercise, enter ES6+, an important iteration of ECMAScript (read about it), learn the core changes and new concepts like Arrow Functions, Template Strings, and more to prettify your code, and make it elegant and <b>short</b>
